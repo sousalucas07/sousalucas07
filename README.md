@@ -1,10 +1,10 @@
- ### Olá, Eu sou o Lucas Pereira! ♋
+ ### Olá, Eu sou o Lucas Pereira! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-74a114211/target=_blank)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas_pereira_/)
 [![ Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatslink.top/LucasPDev)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sousalucas07&show_icons=true&theme=dark&count_private=true)
+![Atividade de Commits](https://img.shields.io/github/commit-activity/m/sousalucas07/sousalucas07?style=for-the-badge&label=Commits%20mensais&color=238636)
 
 ### Tecnologias que utilizo
 
