@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas_pereira_/)
 [![ Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatslink.top/LucasPDev)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sousalucas07&theme=github-dark&v=1" alt="Grafico de Atividade" />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sousalucas07&show_icons=true&theme=dark&count_private=true)
 
 ### Tecnologias que utilizo
 
