@@ -4,13 +4,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas_pereira_/)
 [![ Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatslink.top/LucasPDev)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sousalucas07&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
 
 
 ### Tecnologias que utilizo
 
 
 <div style="display: inline_block"></br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sousalucas07&theme=github-dark" alt="Gráfico de Atividade" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
